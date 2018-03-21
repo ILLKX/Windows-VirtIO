@@ -3,7 +3,9 @@
 DD包：https://github.com/ILLKX/Windows-DD  
 Windows原版镜像：https://github.com/ILLKX/Windows  
 
+本仓库所有镜像均适用于Vultr等可自行上传ISO的商家，挂载后请自行通过VNC来安装系统。  
 <strong>本仓库所有内容仅供参考，请勿传播</strong>  
+<strong>本仓库所有系统均未激活，如因试用过期后仍未激活而导致的数据丢失等故障，请自行解决</strong>
 
 文件名称：virtio_cn_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677816.iso  
 文件大小：3281453056 字节  
@@ -19,7 +21,7 @@ CRC32   ：79582518
 修改时间：2018年2月24日 22:12:58  
 MD5     ：D4427808597FC617BBD00A78E704B272  
 SHA1    ：72AAC0A430AD81B8ECAB11EB4402EFF00BD8FCA3  
-CRC32   ：A98DB96  
+CRC32   ：A98DB963  
 备注：Windows Server 2008 R2 Standard with SP1 64位 VL原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
 下载地址：https://drive.google.com/file/d/1V4L7gxwXDYRr9KG4v91tQsrmlYhtvF3Z/view?usp=sharing
 
