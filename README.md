@@ -68,7 +68,7 @@ MD5     ：1A74155DC39D031D6034D2A275C6C574
 SHA1    ：9CBFC11D18BC6B3E257E8E775E2D2D3B9A9F573D  
 CRC32   ：75D91C9F  
 备注：Windows 10 Business Edtitions Pro Version 1909 (Updated Jan 2020) 64位 原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
-备注2：听说这个版本才能VL激活？？？
+备注2：听说这个版本才能VL激活？？？  
 下载地址：https://drive.google.com/file/d/1oEzSqJ0rHxU71dW6SaRmQnP9VE3JttYr/view?usp=sharing
 
 文件名称：virtio_cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso  
