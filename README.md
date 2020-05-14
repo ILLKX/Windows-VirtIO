@@ -52,14 +52,33 @@ CRC32   ：29C185D1
 备注：Windows 8.1 <strong>Pro</strong> with update 64位 VL原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
 下载地址：https://drive.google.com/file/d/1AMjXFkp7p4rCrOFbks4rXUN-ATbk1MqY/view?usp=sharing
 
-文件名称：virtio_cn_windows_10_pro_vl_version_1709_updated_dec_2017_x64_dvd_100406208.iso  
-文件大小：4714921984 字节  
-修改时间：2018年2月24日 23:19:41  
-MD5     ：45548C7534084212B0517C59E9FE0BB2  
-SHA1    ：1AE44BE0A27D4FAB494FFA52C7CD5B4F00FD174B  
-CRC32   ：226AA733  
-备注：Windows 10 Pro Version 1709 (Updated Dec 2017) 64位 VL原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
-下载地址：https://drive.google.com/file/d/1ATYK4emn-tdESSLxLGb7Nub3yThL7tA_/view?usp=sharing
+文件名称：virtio_cn_windows_10_pro_consumer_editions_version_1909_updated_jan_2020_x64_dvd_47161f17.iso  
+文件大小：5000396800 字节  
+修改时间：2020年5月12日 12:38:50  
+MD5     ：A73A67ADF18FF4AC9C8704CFF879292C  
+SHA1    ：197BBF3210735141DE953EE4C46297A31AAAF50C  
+CRC32   ：DF68B146  
+备注：Windows 10 Consumer Edtitions Pro Version 1909 (Updated Jan 2020) 64位 原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
+下载地址：https://drive.google.com/file/d/1VPuxzNkEvzWYtZOaI4YoOtYfL3dY9DLt/view?usp=sharing
+
+文件名称：virtio_cn_windows_10_pro_business_editions_version_1909_updated_jan_2020_x64_dvd_b3e1f3a6.iso  
+文件大小：5000527872 字节  
+修改时间：2020年5月13日 17:50:10  
+MD5     ：1A74155DC39D031D6034D2A275C6C574  
+SHA1    ：9CBFC11D18BC6B3E257E8E775E2D2D3B9A9F573D  
+CRC32   ：75D91C9F  
+备注：Windows 10 Business Edtitions Pro Version 1909 (Updated Jan 2020) 64位 原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
+备注2：听说这个版本才能VL激活？？？
+下载地址：https://drive.google.com/file/d/1oEzSqJ0rHxU71dW6SaRmQnP9VE3JttYr/view?usp=sharing
+
+文件名称：virtio_cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso  
+文件大小：4339269632 字节  
+修改时间：2020年5月11日 23:01:42  
+MD5     ：B77754BA301A68AB85608AE722B9AE99  
+SHA1    ：351961CF6D9D25366D1FF74A823DD11557E25D9C  
+CRC32   ：D8F1DF1E  
+备注：Windows 10 Enterprise LTSC 2019 64位 原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
+下载地址：https://drive.google.com/file/d/1UAMFF79U-nEHlFoy4Pu1ePbhWbhf-9ap/view?usp=sharing
 
 文件名称：virtio_cn_windows_server_2012_r2_standard_vl_with_update_x64_dvd_6052729.iso  
 文件大小：5293604864 字节  
@@ -70,11 +89,20 @@ CRC32   ：379BCDEB
 备注：Windows Server 2012 R2 Standard with update 64位 VL原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
 下载地址：https://drive.google.com/file/d/1XSLnbO4qH0mSR_NUCLqbmFchr3Kzj6MK/view?usp=sharing
 
-文件名称：virtio_cn_windows_server_2016_standard_x64_dvd_9718765.iso  
-文件大小：5211684864 字节  
-修改时间：2018年2月24日 23:57:17  
-MD5     ：E98A7DAD558E98E09E5B9E1FC9C662E6  
-SHA1    ：D0DF4B178BC9B55DAD2DBBE3372A0CB773776999  
-CRC32   ：0389587B  
-备注：Windows Server 2016 Standard 64位 原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
-下载地址：https://drive.google.com/file/d/1Z_G2CIgl9lYCaesID1eZNPrCo6uHPNNX/view?usp=sharing
+文件名称：virtio_cn_windows_server_2016_standard_updated_feb_2018_x64_dvd_11636703.iso  
+文件大小：4129292288 字节  
+修改时间：2020年5月12日 17:21:49  
+MD5     ：F2A48F58EF9E1FB09F2DB406F5435690  
+SHA1    ：584B6E10549E192484BC0F75AED3E4ACE89EB144  
+CRC32   ：898CE994  
+备注：Windows Server 2016 Standard (Updated Feb 2018) 64位 原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
+下载地址：https://drive.google.com/file/d/1_UmlJXuzjs3yMSF8MtWGGBH_j4UQwVo6/view?usp=sharing
+
+文件名称：virtio_cn_windows_server_2019_standard_updated_jan_2020_x64_dvd_4bbe2c37.iso  
+文件大小：3744661504 字节  
+修改时间：2020年5月12日 16:40:22  
+MD5     ：8E205BDD61E655C41A35FC0CDA053DC1  
+SHA1    ：201CB9771187014DBF5E67745AAF08B65C3740F3  
+CRC32   ：9B6C6625  
+备注：Windows Server 2019 Standard (Updated Jan 2020) 64位 原版镜像(带VirtIO驱动)，仅安装驱动，未对系统进行任何修改  
+下载地址：https://drive.google.com/file/d/1XjnuIa4PUUhbhPe5Kp46bvexQQqGLlic/view?usp=sharing
